@@ -13,13 +13,8 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           {/* Airbnb Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <img 
-              src="https://imgcdn.dev/i/YuiEN2" 
-              alt="Airbnb Logo" 
-              className="w-8 h-8"
-            />
             <span className="text-2xl font-bold text-[#FF5A5F]">
-              airbnb
+              Airbnb
             </span>
           </Link>
 
