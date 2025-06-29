@@ -12,12 +12,12 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           {/* Airbnb Logo */}
-          <Link to="/" className="flex items-center space-x-2">
+         /* <Link to="/" className="flex items-center space-x-2">
             <img 
               src="/src/data/airbnb-logo-vector-6.png" 
               alt="Airbnb Logo" 
               className="w-8 h-8"
-            />
+            />*/
             <span className="text-2xl font-bold text-[#FF5A5F]">
               airbnb
             </span>
