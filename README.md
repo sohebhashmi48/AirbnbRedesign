@@ -2,6 +2,9 @@
 
 A modern, responsive web application inspired by Airbnb, built with React, TypeScript, Vite, and Tailwind CSS. This project demonstrates a clean UI, property browsing, and interactive features for a seamless user experience.
 
+#Demo
+Live Preview: https://airbnb-redesign-five.vercel.app/
+
 ## Features
 - Home page with property grid
 - Search bar for filtering properties
