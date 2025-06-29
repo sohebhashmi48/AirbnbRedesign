@@ -56,8 +56,7 @@ project/
 
 Here are some screenshots of the application in action:
 
-![Home Page Demo](\dist\assets
-\image.png)
+![Home Page Demo](https://raw.githubusercontent.com/sohebhashmi48/AirbnbRedesign/main/dist/assets/image.png)
 ![Property Grid Demo](dist\assets\ss2.png)
 
 ## Contributing
